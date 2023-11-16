@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangtori&show_icons=true&theme=merko)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH3904&layout=compact&theme=merko)
 
 <h3 align="center">📚 Skills 📚</h3>
 <p align="center">
