@@ -1,11 +1,12 @@
-# 안녕하세요. 방유빈 입니다
+# 안녕하세요. 불편함을 찾아 개선하는 개발자 방유빈 입니다
+> - 반복되는 작업, 코드를 지양하고 어떻게 하면 재사용성이 높은 코드를 작성할 수 있을지 늘 고민합니다.
+> - 사용자에게 효율적인 User Flow를 제공하기 위해 디자이너와 함께 고민합니다.
+> - 모듈화, 아키텍쳐, 사용자UX 등에 관심을 가지고 있습니다.
 
-## 👋 Introduction
+## 👋 My Information
 - **Name(nickName)**:&nbsp;&nbsp;방유빈 (Tori)
 - **Email**:&nbsp;&nbsp;toribang2000@gmail.com
 - **University**:&nbsp;&nbsp;Kongju Univ. - Computer Science Engineering
-- 효율성을 중요시하는 iOS 개발자
-- 모듈화 (의존성 주입), 아키텍쳐 등에 관심을 가지고 있습니다.
 
 ## 🏃🏻 Experiences
 |활동|기간|비고|
@@ -54,11 +55,12 @@
 </p>
 
 ## 📍 My Github 
-<div>
+<p>  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangtori&show_icons=true&theme=merko)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH3904&layout=compact&theme=merko)
-</div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH3904&layout=compact&theme=merko)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangtori&show_icons=true&theme=merko)
+
+</p>
 
 
